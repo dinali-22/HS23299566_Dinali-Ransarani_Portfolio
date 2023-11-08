@@ -1,0 +1,14 @@
+@font - face {
+    font - family: robot;
+    src: url(../fonts/roboto-regular.ttf);
+    }
+
+    body{
+        background-color:#fff;
+        font-size: 30px;
+        }
+
+        .wrpper-main{
+            width: 900px;
+            margin: 0 auto;
+            }
